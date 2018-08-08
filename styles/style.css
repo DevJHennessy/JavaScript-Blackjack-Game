@@ -1,0 +1,39 @@
+body {
+  background-image: url("../images/Cardtable-BG.png");
+  background-size: cover;
+}
+
+h1, h4, p {
+  font-family: 'PT Sans', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+
+}
+
+h4 {
+  text-align: center;
+  color: #fff;
+}
+
+p {
+  text-align: center;
+  color: #fff;
+}
+
+/* #new-game-button {
+  display: block;
+  margin: 0 auto;
+}
+
+#hit-button {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+#stay-button {
+  display: inline-block;
+  margin: 0 auto;
+} */
